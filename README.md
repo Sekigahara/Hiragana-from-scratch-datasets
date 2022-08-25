@@ -27,7 +27,7 @@ This repository also linked with different project of Japanese recognition with 
 ```
 pip install -r requirements.txt
 ```
-
+- Make sure to utilizes Jupyter notebook
 ### Detail info
 - The first script is augmentation.ipynb, perform brightness augmentation in different range and copy the annotated coordinates and perform data split. In this script, it's really possible to add more augmentation technique especially photomeric distortion that did not changes the object preposition.
 - The second script is train_txt_formatter.ipynb, this script list every pictures and add it to the train.txt and test.txt for YOLOv4 Darknet training by [AlexeyAB](https://github.com/AlexeyAB/darknet).
