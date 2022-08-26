@@ -1,5 +1,5 @@
 # Hiragana characters dataset for object detection
-The dataset is taken with smartphone camera and annotated with [YoloLabeler](https://github.com/developer0hye/Yolo_Label).</br>
+The dataset is taken by myself with smartphone camera and annotated with [YoloLabeler](https://github.com/developer0hye/Yolo_Label).</br>
 This repository also linked with different project of Japanese recognition with YOLOv4, find the detail of the repository [here](https://github.com/Sekigahara/ETL-extractor-YOLOv4).
 
 ## Dataset characteristic
